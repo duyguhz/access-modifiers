@@ -1,0 +1,13 @@
+/Users/duyguhasanzade/Desktop/Projects/010622/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.csproj.AssemblyReference.cache
+/Users/duyguhasanzade/Desktop/Projects/010622/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duyguhasanzade/Desktop/Projects/010622/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.AssemblyInfoInputs.cache
+/Users/duyguhasanzade/Desktop/Projects/010622/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.AssemblyInfo.cs
+/Users/duyguhasanzade/Desktop/Projects/010622/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.csproj.CoreCompileInputs.cache
+/Users/duyguhasanzade/Desktop/Projects/010622/AccessModifiers/bin/Debug/netcoreapp3.1/AccessModifiers.deps.json
+/Users/duyguhasanzade/Desktop/Projects/010622/AccessModifiers/bin/Debug/netcoreapp3.1/AccessModifiers.runtimeconfig.json
+/Users/duyguhasanzade/Desktop/Projects/010622/AccessModifiers/bin/Debug/netcoreapp3.1/AccessModifiers.runtimeconfig.dev.json
+/Users/duyguhasanzade/Desktop/Projects/010622/AccessModifiers/bin/Debug/netcoreapp3.1/AccessModifiers.dll
+/Users/duyguhasanzade/Desktop/Projects/010622/AccessModifiers/bin/Debug/netcoreapp3.1/AccessModifiers.pdb
+/Users/duyguhasanzade/Desktop/Projects/010622/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.dll
+/Users/duyguhasanzade/Desktop/Projects/010622/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.pdb
+/Users/duyguhasanzade/Desktop/Projects/010622/AccessModifiers/obj/Debug/netcoreapp3.1/AccessModifiers.genruntimeconfig.cache
